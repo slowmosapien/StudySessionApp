@@ -258,7 +258,7 @@ flex: 1;
 }
 .blurb-button  button{
   width: 52%;
-  background-color: var(--contrast-color);
+  background-color: var(--secondary-color);
   border: 0px;
   text-decoration: none;
   border-radius: 10px;
